@@ -1,0 +1,21 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+*{
+    box-sizing: border-box;
+    background-color:blue;
+    padding: 40px;
+
+}
+
+h1 {
+    font-size: 25px;
+    color: black;
+    font-family: 'Krona One', sans-serif;
+}
+
+.whiteBackground {
+    background-color: white;
+
+}
